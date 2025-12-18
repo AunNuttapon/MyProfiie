@@ -1,36 +1,41 @@
-# MyProfiie
 
-## FAQ
+## 🛠 Tech Stack
 
-#### Question 1
+Frontend
 
-Answer 1
+JavaScript
 
-#### Question 2
+React
 
-Answer 2
+HTML5 / CSS3
 
+Tailwind CSS, Bootstrap, Material UI
 
-## 🛠️ Skills
+Backend
 
-Languages & Frontend
+Node.js / Express.js
 
-⚡ JavaScript (ES6+)
+Python
 
-🌐 HTML5
+MySQL
 
-🎨 CSS3 / Responsive Design
+Tools
 
-Tools & Frameworks
+Git & GitHub
 
-⚛️ React
+Visual Studio Code
 
-🧩 Git & GitHub
+🎓 Education
 
-📦 npm / yarn
+Bachelor of Engineering (Software Engineering)
+University of Phayao
+
+🌍 Languages
+
+Thai — Native
+
+English — Fair
 
 📫 Contact
 
-GitHub: your-username
-
-Email: your-email@example.com
+📧 Email: nuttaponjaioon@gmail.com
